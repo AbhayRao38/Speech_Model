@@ -2,7 +2,6 @@ flask>=2.3.0
 flask-cors>=4.0.0
 torch>=2.0.1
 torchvision>=0.15.2 
-torchtext>=0.15.2
 torchaudio>=2.0.2
 --extra-index-url https://download.pytorch.org/whl/cu118
 transformers>=4.30.0
